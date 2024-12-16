@@ -7,8 +7,6 @@ You can view the app by clicking the link below:
 
 [Happiness App](https://kqogqg-pietro0leonardi-candido0olivetti.shinyapps.io/happiness-eu-dashboard/)
 
-<iframe src="[https://kqogqg-pietro0leonardi-candido0olivetti.shinyapps.io/happiness-eu-dashboard/](Happiness App)" width="100%" height="600" frameborder="0"></iframe>
-
 ## About
 The app allows users to:
 - Select a year and countries to explore happiness levels.
